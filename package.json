@@ -1,0 +1,26 @@
+{
+  "name": "drunk_tweet_bot",
+  "version": "1.0.0",
+  "description": "Destroys tweets that include derogatory, offensive material or seem like something sent while drunk",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chznbaum/drunk-tweet-bot.git"
+  },
+  "keywords": [
+    "twitter",
+    "bot",
+    "drunk",
+    "tweet",
+    "reputation"
+  ],
+  "author": "Chazona Baum",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chznbaum/drunk-tweet-bot/issues"
+  },
+  "homepage": "https://github.com/chznbaum/drunk-tweet-bot#readme"
+}
