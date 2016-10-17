@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/chznbaum/drunk-tweet-bot/issues"
   },
-  "homepage": "https://github.com/chznbaum/drunk-tweet-bot#readme"
+  "homepage": "https://github.com/chznbaum/drunk-tweet-bot#readme",
+  "dependencies": {
+    "twit": "^2.2.5"
+  }
 }
