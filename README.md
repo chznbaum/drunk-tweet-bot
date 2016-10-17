@@ -9,7 +9,7 @@ module.exports = {
 	consumer_key: 				'...',
 	consumer_secret: 			'...',
 	access_token: 				'...',
-	access_token_secret: 	'...'
+	access_token_secret: 		'...'
 }
 ```
 If the source code for your directory is shared or public, this file should be added to your `.gitignore` file. From your terminal, `cd` into the bot directory and do this:
